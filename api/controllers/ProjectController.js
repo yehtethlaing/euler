@@ -9,13 +9,13 @@ module.exports = {
 	create: function(req, res) {
 
 	},
-	render: function(req, res) {
+	home: function(req, res) {
 
 	},
 	settings: function(req, res) {
 
 	},
 	delete: function(req, res) {
-		
+
 	}
 };
