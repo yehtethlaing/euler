@@ -1,9 +1,9 @@
 /**
- * ProjectController
- *
- * @description :: Server-side logic for managing projects
- * @help        :: See http://sailsjs.org/#!/documentation/concepts/Controllers
- */
+* ProjectController
+*
+* @description :: Server-side logic for managing projects
+* @help        :: See http://sailsjs.org/#!/documentation/concepts/Controllers
+*/
 
 module.exports = {
 	create: function(req, res) {
